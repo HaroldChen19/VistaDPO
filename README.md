@@ -55,14 +55,14 @@ Currently, our DynamiCrafter can support generating videos of up to 16 frames wi
 GPU memory consumed on RTX 4090 reported by @noguchis in [Twitter](https://x.com/noguchis/status/1754488826016432341?s=20): 18.3GB (576x1024), 12.8GB (320x512), 11.9GB (256x256). -->
 
 
- ## Contents
+## 📖 Contents
 - [Dataset](#data)
 - [Install](#install)
 - [Inference](#inference)
 - [Training](#training)
 
 
-## Data
+## 📝 Data
 
 ### Training data
 We use our proposed VistaDPO-7k for training, which can be found in [HuggingFace](https://huggingface.co/datasets/Harold328/VistaDPO-7K). In this repo, we provide a subset of objects for reference in [data](data/object_final.jsonl).
@@ -74,7 +74,7 @@ The evaluation dataset utilized in our work are listed below:
 * Video QA: MSVD, MSR-VTT, TGIF, ActivityNet, MVBench.
 * Video Captioning: VideoChatGPT Bench
 
-## Install
+## 🚀 Install
 
 1. Clone this repository and navigate to source folder
 ```bash
@@ -93,7 +93,7 @@ echo "Installing dependencies"
 pip install -r requirements.txt
 ```
 
-## Inference
+## 📍 Inference
 
 ```python
 from llava.model.builder import load_pretrained_model
@@ -134,7 +134,7 @@ response = inference_model.generate(
 print(response)
 ```
 
-## Training
+## 🚩 Training
 
 VistaDPO training refer to [setup and training](./dpo_scripts/train_dpo.sh)
 ```Shell
@@ -152,3 +152,8 @@ TBD
 ## 🍗 Acknowledgement
 
 Our VistaDPO is developed based on the codebases of [VideoLLaVA](https://github.com/PKU-YuanGroup/Video-LLaVA) and [PLLaVA](https://github.com/magic-research/PLLaVA), and we would like to thank the developers of both.
+
+
+## 📪 Contact
+
+For any question, feel free to email ```haojianhuang927@gmail.com``` or ```haroldchen328@gmail.com```.
