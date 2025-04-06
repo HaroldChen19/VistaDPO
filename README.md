@@ -65,7 +65,7 @@ GPU memory consumed on RTX 4090 reported by @noguchis in [Twitter](https://x.com
 ## 📝 Data
 
 ### Training data
-We use our proposed VistaDPO-7k for training, which can be found in [HuggingFace](https://huggingface.co/datasets/Harold328/VistaDPO-7K). In this repo, we provide a subset of objects for reference in [data](data/object_final.jsonl).
+We use our proposed VistaDPO-7k for training, which can be found in [HuggingFace](https://huggingface.co/datasets/Harold328/VistaDPO-7K). In this repo, we provide a subset of objects for reference in [data](data/video_data/train/vistadpo/object_set.jsonl).
 
 ### Evaluation data
 
