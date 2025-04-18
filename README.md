@@ -146,7 +146,12 @@ bash dpo_scripts/train_dpo.sh
 ## 📝 Citation
 Please consider citing our paper if our code and benchmark are useful:
 ```bib
-TBD
+@article{huang2025vistadpo,
+    title={VistaDPO: Video Hierarchical Spatial-Temporal Direct Preference Optimization for Large Video Models},
+    author={Huang, Haojian and Chen, Haodong and Wu, Shengqiong and Luo, Meng and Fu, Jinlan and Du, Xinya and Zhang, Hanwang and Fei, Hao},
+    journal={arXiv preprint arXiv:2504.13122},
+    year={2025}
+}
 ```
 
 ## 🍗 Acknowledgement
