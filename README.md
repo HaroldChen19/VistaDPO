@@ -1,7 +1,7 @@
 <!-- <p align="center">
     <img src="assets/a-logo-representing - omnicreator - -a-powerful-ai-t.png" width="150" style="margin-bottom: 0.2;"/>
 <p> -->
-<h2 align="center"> <a href="https://arxiv.org/abs/2412.02114">VistaDPO: Video Hierarchical Spatial-Temporal Direct Preference Optimization for Large Video Models</a></h2>
+<h2 align="center"> <a href="https://arxiv.org/abs/2504.13122">VistaDPO: Video Hierarchical Spatial-Temporal Direct Preference Optimization for Large Video Models</a></h2>
 <!-- ![](./assets/logo_long.png#gh-light-mode-only){: width="50%"} -->
 <!-- ![](./assets/logo_long_dark.png#gh-dark-mode-only=100x20) -->
 <div align="center">
@@ -18,7 +18,7 @@ _**[Haojian Huang](https://www.wonghougin.me/)<sup>1*</sup>, [Haodong Chen](http
 
 <h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for latest update.  </h2>
 
- <a href='https://arxiv.org/abs/2412.02114'><img src='https://img.shields.io/badge/arXiv-2412.02114-b31b1b.svg'></a> &nbsp;
+ <a href='https://arxiv.org/abs/2504.13122'><img src='https://img.shields.io/badge/arXiv-2504.13122-b31b1b.svg'></a> &nbsp;
 <a href='https://huggingface.co/datasets/Harold328/VistaDPO-7K'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20VistaDPO7K-Dataset-blue'></a>&nbsp;
 
 </div>
@@ -33,13 +33,13 @@ Large Video Models (LVMs) built upon Large Language Models (LLMs) have shown pro
 </table>
  
 ## 🔥 Update
-<!-- - __[2025.04.02]__: Released the training & inference code of UES on [DynamiCrafter](https://github.com/Doubiiu/DynamiCrafter). -->
+- __[2025.04.18]__: Released VistaDPO [Paper](https://arxiv.org/abs/2504.13122).
 - __[2025.04.03]__: Initialized this github repository and released training & inference code of VistaDPO on [Video-LLaVA](https://github.com/PKU-YuanGroup/Video-LLaVA).
 
 
 ## 🧰 TODO
 
-- [ ] Release Paper.
+- [x] Release Paper.
 - [ ] Release VistaDPO-7K.
 - [ ] Release VistaDPO model weights.
 - [ ] Release code of VistaDPO on [PLLaVA](https://github.com/magic-research/PLLaVA).
