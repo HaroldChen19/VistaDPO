@@ -33,6 +33,7 @@ Large Video Models (LVMs) built upon Large Language Models (LLMs) have shown pro
 </table>
  
 ## 🔥 Update
+- __[2025.05.01]__: Our [VistaDPO](https://arxiv.org/abs/2504.13122) is accepted to ICML'25!.
 - __[2025.04.18]__: Released VistaDPO [Paper](https://arxiv.org/abs/2504.13122).
 - __[2025.04.03]__: Initialized this github repository and released training & inference code of VistaDPO on [Video-LLaVA](https://github.com/PKU-YuanGroup/Video-LLaVA).
 
